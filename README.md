@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Zack%20CG%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Researching%20Software%20Engineering&descAlignY=51&descAlign=62)
 
+## Stack
+
 [![JAVA](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
@@ -8,3 +10,15 @@
 [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=323330)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-e06f13.svg?&style=for-the-badge&logo=MySQL&logoColor=white)](#)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
+
+## Publications
+
+- Yoon-ho Choi, Chang-gong Lee, Jaechang Nam, An Empirical Study on Defects in Open Source Artificial Intelligence Applications, in Journal of KIISE, Korea, To appear (The extesion of the KCSE2022 papaer)
+
+## Educations
+
+- 2014 ~ 2015 : Greenfield Community College, U.S.A - AA in Economics.
+- 2015 ~ 2016 : University of Massachussetts Amherst, U.S.A - BA in Economics (Not completed).
+- 2021 ~ 2022 : Handong Global University, South Korea - BS in Information Technology and Global Management.
+
