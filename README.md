@@ -22,3 +22,8 @@
 - 2015 ~ 2016 : University of Massachussetts Amherst, U.S.A - BA in Economics (Not completed).
 - 2021 ~ 2022 : Handong Global University, South Korea - BS in Information Technology and Global Management.
 
+## Contact
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+leechanggong@gmail.com
