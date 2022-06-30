@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Zack%20CG%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Researching%20Software%20Engineering&descAlignY=51&descAlign=62)
 
+### For our neighbors and community.
+
 ## Stack
 
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
@@ -14,12 +16,12 @@
 
 ## Publications
 
-- Yoon-ho Choi, Chang-gong Lee, Jaechang Nam, An Empirical Study on Defects in Open Source Artificial Intelligence Applications, in Journal of KIISE, Korea, To appear (The extesion of the KCSE2022 papaer)
+- Yoon-ho Choi, Chang-gong Lee, Jaechang Nam, An Empirical Study on Defects in Open Source Artificial Intelligence Applications, in Journal of KIISE, Korea, To appear (The extesion of the KCSE 2022 paper)
 
 ## Educations
 
-- 2014 ~ 2015 : Greenfield Community College, U.S.A - AA in Economics.
-- 2015 ~ 2016 : University of Massachussetts Amherst, U.S.A - BA in Economics (Not completed).
+- 2014 ~ 2015 : Greenfield Community College, U.S.A. - AA in Economics.
+- 2015 ~ 2016 : University of Massachussetts Amherst, U.S.A. - BA in Economics (Not completed).
 - 2021 ~ 2022 : Handong Global University, South Korea - BS in Information Technology and Global Management.
 
 ## Contact
