@@ -29,3 +29,7 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 leechanggong@gmail.com
+
+<img alt="Home Page" src ="https://img.shields.io/badge/HomePage-D14836.svg?&style=for-the-badge&logo=Home Assistant Community Store&logoColor=white"/>
+
+<a herf="https://zackcglee.github.io/" >https://zackcglee.github.io/</a>
