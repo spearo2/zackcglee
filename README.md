@@ -13,6 +13,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-e06f13.svg?&style=for-the-badge&logo=MySQL&logoColor=white)](#)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Racket](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-e06f13?style=for-the-badge&logo=ocaml&logoColor=white)
 
 
 ## Publications
