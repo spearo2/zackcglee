@@ -26,7 +26,7 @@
 - 2014 ~ 2015 : Greenfield Community College, U.S.A. - AA in Economics.
 - 2015 ~ 2016 : University of Massachussetts Amherst, U.S.A. - BA in Economics (Not completed).
 - 2021 ~ 2023 : Handong Global University, South Korea - BS in Information Technology and Global Management.
-- 2023 ~      : Korea Advanced Istitute of Science & Technology (KAIST), South Korea - MS in Software Engineering.
+- 2023 ~      : Korea Advanced Istitute of Science & Technology (KAIST), South Korea - MS in Computer Science.
 
 ## Laboratory
 
