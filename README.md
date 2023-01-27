@@ -19,7 +19,7 @@
 ## Publications
 
 - Yoon-ho Choi, Chang-gong Lee, Jaechang Nam, An Empirical Study on Defects in Open Source Artificial Intelligence Applications, in Journal of KIISE, Korea, To appear (The extesion of the KCSE 2022 paper) [[pdf](https://drive.google.com/file/d/1JxLtQitmTOnQ80IYzNSTeORfbZz1MppB/view?usp=share_link)]
-
+- Changgong Lee, Yeawon Na, Yoonho Choi, Gunwoo Lee, Myungseok Choi and Jaechang Nam , Analysis of Code Change Based on Edit Script of Abstract Syntax Tree, in Proceedings of Korea Conference on Software Engineering (KCSE2023), Korea [[pdf](https://drive.google.com/file/d/186PvZqiqe50WJ5rN-8ITsC4TIGz_Ivrq/view?usp=share_link)]
 
 ## Educations
 
