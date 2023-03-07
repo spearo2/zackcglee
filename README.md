@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Zack%20CG%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Researching%20Software%and%Programming%Launguage&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Zack%20CG%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Researching%20Software%20and%20Programming%20Launguage&descAlignY=51&descAlign=62)
 
 ### For our neighbors and community.
 
